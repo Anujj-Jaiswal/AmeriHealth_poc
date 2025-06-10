@@ -1,0 +1,27 @@
+Pipeline_name,Run_start,Run_end,Duration,Triggered,Status,Error,Run,Parameter,Run_ID
+Pipeline_7,2025-06-02 13:04:00,2025-06-02 14:29:00,1:25:00,Manual,Failed,Timeout Error on Job 2,Pipeline_7_run_2,execution_type=Medicaid,run_40815
+Pipeline_4,2025-06-03 23:06:00,2025-06-03 23:35:00,0:29:00,Manual,Failed,FileNotFoundError in input stage,Pipeline_4_run_28,execution_type=Medicaid,run_43618
+Pipeline_4,2025-06-03 03:56:00,2025-06-03 04:48:00,0:52:00,Webhook,Failed,,Pipeline_4_run_36,execution_type=Medicaid,run_50256
+Pipeline_9,2025-06-01 05:34:00,2025-06-01 06:30:00,0:56:00,Webhook,Failed,Timeout Error on Job 2,Pipeline_9_run_39,execution_type=Medicare,run_38378
+Pipeline_8,2025-06-02 00:07:00,2025-06-02 01:31:00,1:24:00,Manual,Failed,Timeout Error on Job 2,Pipeline_8_run_42,execution_type=Medicare,run_53070
+Pipeline_8,2025-06-02 12:05:00,2025-06-02 12:23:00,0:18:00,Webhook,Failed,FileNotFoundError in input stage,Pipeline_8_run_46,execution_type=Medicaid,run_45905
+Pipeline_4,2025-06-02 21:08:00,2025-06-02 21:11:00,0:03:00,Manual,Failed,NullPointerException at stage 3,Pipeline_4_run_48,execution_type=Medicaid,run_25993
+Pipeline_1,2025-06-02 18:00:00,2025-06-02 19:06:00,1:06:00,Schedule,Failed,Timeout Error on Job 2,Pipeline_1_run_50,execution_type=Medicare,run_42188
+Pipeline_7,2025-06-02 13:04:00,2025-06-02 14:29:00,1:25:00,Manual,Failed,Timeout Error on Job 2,Pipeline_7_run_2,execution_type=Medicaid,run_40815
+Pipeline_2,06/03/2025 05:29,06/03/2025 06:26,0:57:00,Manual,Failed,OutOfMemoryError,Pipeline_2_run_1,execution_type=Medicaid,run_66630
+Pipeline_3,06/01/2025 22:05,06/01/2025 23:59,1:54:00,Scheduled,Failed,OutOfMemoryError,Pipeline_3_run_2,execution_type=Medicaid,run_74763
+Pipeline_9,06/02/2025 19:43,06/02/2025 20:56,1:13:00,Manual,Failed,Timeout Error,Pipeline_9_run_3,execution_type=Medicare,run_62742
+Pipeline_8,06/01/2025 21:45,06/01/2025 23:04,1:19:00,Scheduled,Failed,OutOfMemoryError,Pipeline_8_run_4,execution_type=Medicare,run_54315
+Pipeline_8,06/01/2025 01:37,06/01/2025 03:37,2:00:00,Event,Failed,FileNotFoundException,Pipeline_8_run_5,execution_type=Medicaid,run_81964
+Pipeline_6,06/03/2025 21:30,06/03/2025 22:42,1:12:00,Manual,Failed,,Pipeline_6_run_9,execution_type=Medicaid,run_49164
+Pipeline_9,06/03/2025 05:43,06/03/2025 07:08,1:25:00,Manual,Failed,NullPointerException,Pipeline_9_run_11,execution_type=Medicare,run_15297
+Pipeline_10,06/02/2025 18:05,06/02/2025 19:41,1:36:00,Scheduled,Failed,OutOfMemoryError,Pipeline_10_run_17,execution_type=Medicaid,run_15104
+Pipeline_10,06/03/2025 15:29,06/03/2025 16:57,1:28:00,Scheduled,Failed,OutOfMemoryError,Pipeline_10_run_19,execution_type=Medicare,run_49969
+Pipeline_3,06/02/2025 01:52,06/02/2025 03:19,1:27:00,Manual,Failed,OutOfMemoryError,Pipeline_3_run_22,execution_type=Medicaid,run_13753
+Pipeline_5,06/01/2025 16:31,06/01/2025 17:36,1:05:00,Scheduled,Failed,FileNotFoundException,Pipeline_5_run_25,execution_type=Medicare,run_18008
+Pipeline_3,06/01/2025 01:05,06/01/2025 01:58,0:53:00,Scheduled,Failed,Timeout Error,Pipeline_3_run_33,execution_type=Medicare,run_83236
+Pipeline_3,06/01/2025 04:38,06/01/2025 05:52,1:14:00,Event,Failed,OutOfMemoryError,Pipeline_3_run_34,execution_type=Medicaid,run_11842
+Pipeline_8,06/02/2025 01:45,06/02/2025 03:32,1:47:00,Scheduled,Failed,OutOfMemoryError,Pipeline_8_run_35,execution_type=Medicare,run_42298
+Pipeline_10,06/01/2025 19:54,06/01/2025 21:33,1:39:00,Event,Failed,OutOfMemoryError,Pipeline_10_run_50,execution_type=Medicare,run_49359
+Pipeline_5,2025-06-03 21:10:00,2025-06-03 21:45:00,0:35:00,Manual,Failed,ConnectionTimeout on Step 4,Pipeline_5_run_7,execution_type=Medicare,run_77889
+Pipeline_6,2025-06-03 22:00:00,2025-06-03 22:50:00,0:50:00,Event,Failed,NullReferenceException in Logger,Pipeline_6_run_8,execution_type=Medicaid,run_99123
