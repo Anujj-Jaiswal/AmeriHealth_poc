@@ -23,8 +23,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "Data")
 LOG_FILE = os.path.join(BASE_DIR, "processed_files.log")
 
-SENDER_EMAIL = "anuj2804j@gmail.com"
-SENDER_PASSWORD = "fsue ayla orye xlht"
+SENDER_EMAIL = ""
+SENDER_PASSWORD = ""
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 RECIPIENT_EMAIL = "AnujJ1@hexaware.com"
